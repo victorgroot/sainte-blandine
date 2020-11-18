@@ -20792,6 +20792,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2768960344350163850, guid: 5fe2648c58190324f82dcd0070b5043c,
+        type: 3}
+      propertyPath: volumeTrigger
+      value: 
+      objectReference: {fileID: 451282746}
     - target: {fileID: 6229907484239847719, guid: 5fe2648c58190324f82dcd0070b5043c,
         type: 3}
       propertyPath: m_TargetDisplay
@@ -20826,7 +20831,7 @@ Animator:
   m_GameObject: {fileID: 740246378}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 6f829ddddbc933646b97619939f150a8, type: 2}
+  m_Controller: {fileID: 9100000, guid: 3e9bf2e2175209046b83b6e9a8785621, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -26278,6 +26283,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0.074
       objectReference: {fileID: 0}
+    - target: {fileID: 2768960344350163850, guid: 5fe2648c58190324f82dcd0070b5043c,
+        type: 3}
+      propertyPath: volumeTrigger
+      value: 
+      objectReference: {fileID: 451282746}
     - target: {fileID: 6229907484239847719, guid: 5fe2648c58190324f82dcd0070b5043c,
         type: 3}
       propertyPath: m_TargetDisplay
@@ -26313,7 +26323,7 @@ Animator:
   m_GameObject: {fileID: 942182286}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 2d9de94fde4cfc94ca30c62741296714, type: 2}
+  m_Controller: {fileID: 9100000, guid: 6f829ddddbc933646b97619939f150a8, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -37012,6 +37022,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2768960344350163850, guid: 5fe2648c58190324f82dcd0070b5043c,
+        type: 3}
+      propertyPath: volumeTrigger
+      value: 
+      objectReference: {fileID: 451282746}
     - target: {fileID: 6229907484239847719, guid: 5fe2648c58190324f82dcd0070b5043c,
         type: 3}
       propertyPath: m_TargetDisplay
@@ -43992,6 +44007,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2768960344350163850, guid: 5fe2648c58190324f82dcd0070b5043c,
+        type: 3}
+      propertyPath: volumeTrigger
+      value: 
+      objectReference: {fileID: 451282746}
     - target: {fileID: 6229907484239847719, guid: 5fe2648c58190324f82dcd0070b5043c,
         type: 3}
       propertyPath: m_TargetDisplay
@@ -60128,6 +60148,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2768960344350163850, guid: 5fe2648c58190324f82dcd0070b5043c,
+        type: 3}
+      propertyPath: volumeTrigger
+      value: 
+      objectReference: {fileID: 451282746}
     - target: {fileID: 6229907484239847719, guid: 5fe2648c58190324f82dcd0070b5043c,
         type: 3}
       propertyPath: m_TargetDisplay
